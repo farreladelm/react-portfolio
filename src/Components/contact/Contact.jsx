@@ -31,19 +31,19 @@ const Contact = () => {
             <HiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>farrel.adel@gmail.com</h5>
-            <a href="mailto:farrel.adel@gmail.com" target="_blank">Send a Message</a>
+            <a href="mailto:farrel.adel@gmail.com" target="_blank" rel="noreferrer">Send a Message</a>
           </article>
           <article className="contact__option">
             <FiInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5>@farreladelm</h5>
-            <a href="https://www.instagram.com/farreladelm/" target="_blank">Send a Message</a>
+            <a href="https://www.instagram.com/farreladelm/" target="_blank" rel="noreferrer">Send a Message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>082131401640</h5>
-            <a href="https://wa.me/6282131401640" target="_blank">Send a Message</a>
+            <a href="https://wa.me/6282131401640" target="_blank" rel="noreferrer">Send a Message</a>
           </article>
         </div>
         {/* CONTACT FORM */}
