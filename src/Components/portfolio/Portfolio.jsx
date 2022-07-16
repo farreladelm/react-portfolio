@@ -3,13 +3,14 @@ import './Portfolio.css';
 import img1 from '../../assets/portfolio1.png'
 import img2 from '../../assets/portfolio5.png'
 import img3 from '../../assets/portfolio3.png'
+import img4 from '../../assets/portfolio4.png'
 
 const portfolioData = [
   {
     id: 1,
     image: img1,
-    title: "Udemy Smart Brain Final Project using React and Express.js",
-    github: ""
+    title: "Chatbot Used for Helping Small Businesses Sell Their Products",
+    github: "https://app.smojo.org/farreladelm/TudungSaji"
   },
   {
     id: 2,
@@ -22,6 +23,12 @@ const portfolioData = [
     image: img3,
     title: "My First Portfolio using HTML, CSS, and Javascript",
     github: "https://first-portofolio.netlify.app/"
+  },
+  {
+    id: 4,
+    image: img4,
+    title: "Chatbot Used for Helping Small Businesses Sell Their Products",
+    github: "https://app.smojo.org/farreladelm/foosh-bot"
   }
 ]
 
