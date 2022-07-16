@@ -31,7 +31,7 @@ const About = () => {
           </div>
 
           <p>
-            I'm currently in contract with Terra Weather Ptc. Ltd. as Student Mentor in Kampus Merdeka Studi Independen - AI4IMPACT Apprenticeship program.
+            I'm currently in contract with Terra Weather Ptc. Ltd. as Chatbot Student Mentor in Kampus Merdeka Studi Independen - AI4IMPACT Apprenticeship program.
             Over the past 2 years, I have learned a lot about front-end programming and algorithm. <br/>
             I'm a hardworking, passionate, and curious person in programming and IT world. I always want to learn new things everyday.
           </p>
