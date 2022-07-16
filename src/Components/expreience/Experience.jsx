@@ -5,8 +5,8 @@ import {BsFillCheckCircleFill} from 'react-icons/bs'
 const Experience = () => {
   return (
     <section id="experience">
-      <h5>Skills I've Learned</h5>
-      <h2>My Experience</h2>
+      <h5>What I've Learned</h5>
+      <h2>Skills</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">
@@ -57,13 +57,6 @@ const Experience = () => {
               <BsFillCheckCircleFill className='experience__details-icon'/>
               <div>
               <h4>Express JS</h4>
-              <small className="text-light">Basic</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillCheckCircleFill className='experience__details-icon'/>
-              <div>
-              <h4>Database</h4>
               <small className="text-light">Basic</small>
               </div>
             </article>
