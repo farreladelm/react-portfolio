@@ -18,7 +18,7 @@ const Footer = () => {
 
       <div className="footer__socials">
       <a href="https://www.instagram.com/farreladelm/" target="_blank" rel="noreferrer"><FiInstagram/></a>
-      <a href="https://www.facebook.com/farrel.adelmuhammad/" target="_blank" rel="noreferrer"><BsFacebook/></a>
+      <a href="https://www.facebook.com/farreladelm/" target="_blank" rel="noreferrer"><BsFacebook/></a>
       <a href="https://twitter.com/farreladelm" target="_blank" rel="noreferrer"><BsTwitter/></a>
       </div>
 

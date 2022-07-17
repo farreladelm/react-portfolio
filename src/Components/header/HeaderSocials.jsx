@@ -8,7 +8,7 @@ const HeaderSocials = () => {
     <div className="header__socials">
         <a href="https://www.linkedin.com/in/farrel-adel-mohammad-566026179/" target="_blank" rel="noreferrer"><BsLinkedin/></a>
         <a href="https://github.com/farreladelm" target="_blank" rel="noreferrer"><BsGithub/></a>
-        <a href="https://www.facebook.com/farrel.adelmuhammad/" target="_blank" rel="noreferrer"><BsFacebook/></a>
+        <a href="https://www.facebook.com/farreladelm/" target="_blank" rel="noreferrer"><BsFacebook/></a>
     </div>
   )
 }
