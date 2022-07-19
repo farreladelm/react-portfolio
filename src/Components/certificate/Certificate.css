@@ -36,3 +36,24 @@
     background-color: var(--color-bg);
     border-color: var(--color-primary-variant);
 }
+
+/* ========= MEDIA QUERIES MEDIUM ========== */
+@media screen and (max-width: 1024px) {
+    .certificate__container  .card__container {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+}
+
+/* ========= MEDIA QUERIES SMALL ========== */
+@media screen and (max-width: 600px) {
+    .certificate__container  .card__container {
+        gap: 1rem;
+        
+    }
+
+    .certificate__container .card__container .card {
+        flex-direction: column;
+    }
+}
