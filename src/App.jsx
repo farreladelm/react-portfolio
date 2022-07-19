@@ -6,6 +6,7 @@ import Experience from './Components/expreience/Experience'
 import Portfolio from './Components/portfolio/Portfolio'
 import Contact from './Components/contact/Contact'
 import Footer from './Components/footer/Footer'
+import Certificate from './Components/certificate/Certificate'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <About/>
       <Experience/>
       <Portfolio/>
+      <Certificate/>
       <Contact/>
       <Footer/>
     </>

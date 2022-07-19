@@ -1,0 +1,38 @@
+.certificate__container .card__container {
+    margin-top: 10rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.certificate__container .card__container .card {
+    display: flex;
+    padding: 2rem 2.5rem;
+    background-color: var(--color-bg-variant);
+    gap: 1rem;
+    border-radius: 1rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.certificate__container .card__container .card .image__content {
+    max-width: 280px;
+    border-radius: 1.2rem;
+}
+
+.image__content img {
+    border-radius: 1.2rem;
+}
+
+.text__content h5 {
+    text-align: left;
+    color: var(--color-white);
+}
+.text__content h5 span {
+    color: var(--color-light);
+}
+
+.certificate__container .card__container .card:hover {
+    background-color: var(--color-bg);
+    border-color: var(--color-primary-variant);
+}

@@ -31,8 +31,7 @@ const About = () => {
           </div>
 
           <p>
-            Over the past 2 years, I have learned a lot about front-end programming and algorithm.
-            I'm a hardworking, passionate, and curious person in programming and IT world. I love to learn new things everyday.
+          3rd year computer science student with 3.9 GPA. Udemy fullstack developer certified and Freecodecamp responsive web design certified. Very passionate in responsive web design. I'm a creative and curious person that love to learn new things everyday. Seeking real-life experience on the tech industry.
           </p>
 
           <a href="#contacts" className="btn btn-primary">Let's Work</a>
