@@ -4,6 +4,7 @@ import img1 from '../../assets/portfolio1.png'
 import img2 from '../../assets/portfolio5.png'
 import img3 from '../../assets/portfolio3.png'
 import img4 from '../../assets/portfolio4.png'
+import img5 from '../../assets/portfolio6.png'
 
 const portfolioData = [
   {
@@ -29,6 +30,12 @@ const portfolioData = [
     image: img4,
     title: "Chatbot Used for Helping Small Businesses Sell Their Products",
     github: "https://app.smojo.org/farreladelm/foosh-bot"
+  },
+  {
+    id: 5,
+    image: img5,
+    title: "MERN Fullstack app that can do CRUD on react with Redux",
+    github: "https://farrels-memories.netlify.app/"
   }
 ]
 
